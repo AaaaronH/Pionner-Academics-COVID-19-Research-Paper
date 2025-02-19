@@ -1,0 +1,3 @@
+#Abstract
+
+This project the Z3 SMT Optimizer to optimize urban planning problems. It uses openstreetmaps data and two algorithms - minimize average travel distance and maximize number of households within a radius - to determine the most optimal locations for installing new public infrastructure. The program was tested on two cities, Ghent and Berkeley, with the former containing more than 40,000 datapoints and the latter containing more than 80,000. Comparison between computer optimized results and real-life installations of COVID-19 test centers reflected that urban planning in Berkeley was indeed optimal. For more details, please read the [paper](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/blob/main/Paper.pdf).
